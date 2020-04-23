@@ -1,4 +1,4 @@
-nume_angajat:str = input("Care este numele tau? ")
+nume_angajat:str = input("Care este bossancean numele tau? ")
 prenume_angajat:str = input("Care este prenumele tau? ")
 adresa:str = input("Care este adresa ta? ")
 motivul:str = input("Care este motivul? ")
