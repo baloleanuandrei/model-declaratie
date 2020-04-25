@@ -1,5 +1,5 @@
 nume_angajat:str = input("Care este bossancean numele tau? ")
-prenume_angajat:str = input("Care este prenumele tau? ")
+prenume_angajat:str = input("Care este bossancean prenumele tau? ")
 adresa:str = input("Care este adresa ta? ")
 motivul:str = input("Care este motivul? ")
 data:int = input("In ce data suntem astazi? ")
